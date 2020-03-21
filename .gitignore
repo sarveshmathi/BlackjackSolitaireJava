@@ -1,2 +1,8 @@
+# Mac system files
 .DS_Store
-.settings
+
+# Eclipse Core      
+.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
