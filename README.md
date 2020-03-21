@@ -2,6 +2,7 @@
 Blackjack solitaire game implementation in Java (non-GUI)
 
 Implementation of the Blackjack Solitarire game found here:
+
 http://www.solitairenetwork.com/solitaire/blackjack-square-solitaire-game.html
 
 The game is a solo game, so in that sense it is like Solitaire, 
