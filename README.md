@@ -5,6 +5,8 @@ Implementation of the Blackjack Solitarire game found here:
 
 http://www.solitairenetwork.com/solitaire/blackjack-square-solitaire-game.html
 
+![Image of game to replicate](https://github.com/sarveshmathi/blackjackSolitaireJava/blob/master/originalGameScreenshot.png)
+
 The game is a solo game, so in that sense it is like Solitaire, 
 but all of the scoring comes from Blackjack. In Blackjack, a hand’s score should stay at or below a value of 21.
 In this game, Blackjack hands are scored from nine hands formed by each of the four rows and five columns
