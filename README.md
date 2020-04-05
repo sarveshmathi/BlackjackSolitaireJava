@@ -12,4 +12,4 @@ of the grid of cards laid out. To play the game, you draw cards one at a time fr
 Once placed, a card cannot be moved. The four discard spots allow one to ignore four cards by 
 placing them in the discard spots rather than on the grid. Once all 16 spots in the grid have cards, a score is calculated.
 
-Refer to **assignment3.pdf** for full details on this project
+Refer to **assignment3instructions.pdf** for full details on this project
