@@ -1,4 +1,4 @@
-# blackjackSolitaireJava
+# BlackjackSolitaireJava
 Blackjack Solitaire game implementation in Java (non-GUI)
 
 Implementation of the Blackjack Solitaire game found here:
