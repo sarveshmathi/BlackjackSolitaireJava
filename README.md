@@ -1,7 +1,7 @@
 # blackjackSolitaireJava
 Blackjack Solitaire game implementation in Java (non-GUI)
 
-Implementation of the Blackjack Solitarire game found here:
+Implementation of the Blackjack Solitaire game found here:
 
 http://www.solitairenetwork.com/solitaire/blackjack-square-solitaire-game.html
 
